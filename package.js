@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('/lib/d3/d3.v2.min.js', 'client');
+  api.add_files('lib/d3/d3.v2.min.js', 'client');
 });
