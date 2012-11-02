@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "d3.js, A JavaScript visualization library for HTML and SVG."
+  summary: 'd3.js, A JavaScript visualization library for HTML and SVG.'
 });
 
 Package.on_use(function (api, where) {

@@ -1,5 +1,5 @@
 {
-  "name": d3js-package",
+  "name": "d3js-package",
   "description": "Meteor packaging of d3.js JavaScript visualization library for HTML and SVG.",
   "homepage": "https://github.com/acidsound/d3js-package",
   "author": "Lee jae ho (https://github.com/acidsound",
